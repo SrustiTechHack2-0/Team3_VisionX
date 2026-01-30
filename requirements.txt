@@ -1,0 +1,7 @@
+opencv-python
+ultralytics
+face-recognition
+streamlit
+numpy
+pillow
+tf-keras
